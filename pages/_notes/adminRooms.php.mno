@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_GetRooms" value="name:id;datatype:int,name:RoomName;datatype:string,name:City;datatype:string,name:Street;datatype:string,name:Postcode;datatype:string,name:RoomType;datatype:string,name:Description;datatype:string,name:dateAdded;datatype:datetime,name:img;datatype:string" />
+	<infoitem key="UD_Updaate" value="name:id;datatype:int,name:date;datatype:datetime,name:fname;datatype:string,name:lname;datatype:string,name:roomid;datatype:int" />
+	<infoitem key="UD_Update" value="name:id;datatype:int,name:RoomName;datatype:string,name:City;datatype:string,name:Street;datatype:string,name:Postcode;datatype:string,name:RoomType;datatype:string,name:Description;datatype:string,name:dateAdded;datatype:datetime,name:img;datatype:string" />
+</info>

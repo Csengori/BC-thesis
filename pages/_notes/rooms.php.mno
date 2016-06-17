@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_bookings" value="name:id;datatype:int,name:from;datatype:datetime,name:toDate;datatype:date,name:interval;datatype:int,name:fname;datatype:string,name:lname;datatype:string,name:roomid;datatype:int" />
+	<infoitem key="UD_Rooms" value="name:id;datatype:int,name:RoomName;datatype:string,name:City;datatype:string,name:Street;datatype:string,name:Postcode;datatype:string,name:RoomType;datatype:string,name:Description;datatype:string,name:dateAdded;datatype:datetime,name:img;datatype:string,name:price;datatype:int" />
+	<infoitem key="UD_users" value="name:userID;datatype:int,name:username;datatype:string,name:firstname;datatype:string,name:lastname;datatype:string,name:email;datatype:string,name:password;datatype:string,name:timestamp;datatype:timestamp,name:lvl;datatype:int,name:Street;datatype:string,name:City;datatype:string,name:PostCode;datatype:string,name:PhoneNumber;datatype:string" />
+</info>

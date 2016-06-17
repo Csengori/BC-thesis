@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_addRoom" value="name:id;datatype:int,name:RoomName;datatype:string,name:City;datatype:string,name:Street;datatype:string,name:Postcode;datatype:string,name:RoomType;datatype:string,name:Description;datatype:string,name:dateAdded;datatype:datetime,name:img;datatype:string" />
+</info>
